@@ -10,7 +10,7 @@ npm install version-is
 
 ## Usage
 
-- version is defined using semver syntax (the one that you use in `package.jsono`)
+- version is defined using semver syntax (the one that you use in `package.json`)
 - It will throw error if node's version is not satisfied 
 
 ### Via package.json
