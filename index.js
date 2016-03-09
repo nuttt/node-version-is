@@ -1,5 +1,4 @@
 var semver = require('semver');
-var packageJson = require('../../package.json');
 
 checkVersion = function(customExpectedVersion) {
   var version = process.version;
