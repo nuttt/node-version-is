@@ -1,6 +1,6 @@
 {
   "name": "version-is",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Checks if node version matches the version defined in package.json",
   "main": "index.js",
   "scripts": {
