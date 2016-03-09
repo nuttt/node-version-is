@@ -1,0 +1,26 @@
+{
+  "name": "version-is",
+  "version": "0.0.1",
+  "description": "Checks if node version matches the version defined in package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuttt/node-version-is.git"
+  },
+  "keywords": [
+    "version",
+    "semver"
+  ],
+  "author": "Nuttapon Pattanavijit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nuttt/node-version-is/issues"
+  },
+  "homepage": "https://github.com/nuttt/node-version-is#readme",
+  "dependencies": {
+    "semver": "^5.1.0"
+  }
+}
